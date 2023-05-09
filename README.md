@@ -5,10 +5,10 @@
 - 美国<br/>
 
 订阅地址1：<br/>
-https://line.c.maosu888.top/api/v1/client/subscribe?token=e0c2af141ac9d90d6a8e3e7e23e3b7ca
+https://s.line3.mucnode51.xyz/api/v1/client/subscribe?token=e0c2af141ac9d90d6a8e3e7e23e3b7ca
 
 订阅地址2：<br/>
-https://line.b.maosu888.top/api/v1/client/subscribe?token=89960c711aa1fdae62a30812de66b439
+https://s.line3.mucnode51.xyz/api/v1/client/subscribe?token=89960c711aa1fdae62a30812de66b439
 
 
 ### 相关订阅节点推荐，适合普通使用的用户，可试用
