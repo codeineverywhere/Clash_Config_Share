@@ -18,7 +18,7 @@ https://s.line5.mucnode51.xyz/api/v1/client/subscribe?token=89960c711aa1fdae62a3
 
 - 8.5折优惠卷码：VIPHAPPY
 
-- [猫速云VPN官网一键直达](https://b.maosu.top?_blank) 
+- [猫速云VPN官网一键直达](https://maosu.top?_blank) 
 
 - [TG群组一键直达](https://t.me/maospeed?_blank) 
 
